@@ -10,7 +10,7 @@ package com.mycompany.budgettracking;
  * @author onyighichijephthah
  */
 public class MaInView extends javax.swing.JFrame {
-
+  
     /**
      * Creates new form MaInView
      */
